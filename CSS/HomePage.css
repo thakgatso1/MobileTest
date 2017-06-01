@@ -146,3 +146,11 @@ display: inline-block;
 float: left;
 
 }
+.narrow.brown{
+	height: 267px;
+    margin-top: 15px;
+}
+.narrow.pink.col-xs-12.col-md-2{
+	    margin-left: 146px;
+    height: 368px;
+}
