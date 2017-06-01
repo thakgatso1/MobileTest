@@ -34,6 +34,7 @@ ul.nav.navbar-nav {
     margin-top: 5%;
     margin-left:40%;
     padding-left: 30%
+    display: inline-block;
 
 }
 .btn-succes-outline
@@ -153,4 +154,10 @@ float: left;
 .narrow.pink.col-xs-12.col-md-2{
 	    margin-left: 146px;
     height: 368px;
+}
+span.white-text.bigger{
+	font-style: italic;
+}
+form.form-inline.float-xs-right{
+	display: inline-block;
 }
